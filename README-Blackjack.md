@@ -34,7 +34,7 @@ To play the game locally:
 
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/your-username/blackjack-game.git
+   git clone https://github.com/mo-prasad/Blackjack-JS.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
